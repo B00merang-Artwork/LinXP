@@ -1,0 +1,13 @@
+16, Mint-X: [places/16/gnome-stock-trash.png, places/16/xfce-trash_empty.png,
+  places/16/trashcan_empty.png, places/16/emptytrash.png, places/16/gnome-fs-trash-empty.png]
+22, Mint-X: [places/22/emptytrash.png, places/22/gnome-stock-trash.png,
+  places/22/gnome-fs-trash-empty.png, places/22/xfce-trash_empty.png,
+  places/22/trashcan_empty.png]
+24, Mint-X: [devices/24/gnome-dev-trash-full.png, devices/24/gnome-dev-trash-empty.png,
+  places/24/emptytrash.png, places/24/gnome-stock-trash.png, places/24/gnome-fs-trash-empty.png,
+  places/24/xfce-trash_empty.png, places/24/trashcan_empty.png]
+32, Mint-X: [places/32/trashcan_empty.png, places/32/xfce-trash_empty.png,
+  places/32/emptytrash.png, places/32/gnome-stock-trash.png, places/32/gnome-fs-trash-empty.png]
+48, Mint-X: [devices/48/gnome-dev-trash-empty.png, places/48/emptytrash.png,
+  places/48/gnome-stock-trash.png, places/48/gnome-fs-trash-empty.png,
+  places/48/trashcan_empty.png, places/48/xfce-trash_empty.png]

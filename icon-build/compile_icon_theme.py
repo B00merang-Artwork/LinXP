@@ -53,11 +53,19 @@ def compileIcons(path):
 							continue
 
 						with open(linkFile, 'r') as ln:
-							lnSrcName = ln.readlines()[0].rstrip()
+							lnSrcPath = ln.readlines()[0].rstrip()
 
-						prefix = '../..' if groupName in groups else '../../..'
+						# links can be formated either <name> or <group>/<name>
+						# if the former, we assume the same group as the
+						# directory in which the link file is placed
+						lnGroupName, lnSrcName = os.path.split(lnSrcPath)
 
-						lnSrc = os.path.join(prefix, groupName, sizeName, lnSrcName)
+						if not lnGroupName:
+							lnGroupName = groupName
+
+						prefix = '../..' if lnGroupName in groups else '../../..'
+
+						lnSrc = os.path.join(prefix, lnGroupName, sizeName, lnSrcName)
 						os.symlink(lnSrc, outFile)
 							
 					elif os.path.exists(os.path.join(root, 'icon')):

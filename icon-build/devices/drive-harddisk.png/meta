@@ -1,0 +1,16 @@
+16, Mint-X: [devices/16/yast_HD.png, devices/16/gnome-dev-harddisk.png, devices/16/gtk-harddisk.png,
+  devices/16/yast_idetude.png, devices/16/drive-harddisk-system.png, devices/16/hdd_unmount.png,
+  devices/16/block-device.png, devices/16/drive-harddisk-scsi.png, devices/16/harddrive.png]
+22, Mint-X: [devices/22/yast_HD.png, devices/22/gnome-dev-harddisk.png, devices/22/gtk-harddisk.png,
+  devices/22/yast_idetude.png, devices/22/drive-harddisk-system.png, devices/22/hdd_unmount.png,
+  devices/22/block-device.png, devices/22/drive-harddisk-scsi.png, devices/22/harddrive.png]
+24, Mint-X: [devices/24/yast_HD.png, devices/24/gnome-dev-harddisk.png, devices/24/gtk-harddisk.png,
+  devices/24/yast_idetude.png, devices/24/drive-harddisk-system.png, devices/24/hdd_unmount.png,
+  devices/24/block-device.png, devices/24/drive-harddisk-scsi.png, devices/24/harddrive.png]
+32, Mint-X: [devices/32/yast_HD.png, devices/32/gnome-dev-harddisk.png, devices/32/gtk-harddisk.png,
+  devices/32/yast_idetude.png, devices/32/drive-harddisk-system.png, devices/32/hdd_unmount.png,
+  devices/32/block-device.png, devices/32/drive-harddisk-scsi.png, devices/32/harddrive.png]
+48, Mint-X: [devices/48/yast_HD.png, devices/48/gnome-dev-harddisk.png, devices/48/gtk-harddisk.png,
+  devices/48/yast_idetude.png, devices/48/drive-harddisk-system.png, devices/48/hdd_unmount.png,
+  devices/48/gnome-fs-blockdev.png, devices/48/block-device.png, devices/48/drive-harddisk-scsi.png,
+  devices/48/harddrive.png]

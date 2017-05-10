@@ -3,7 +3,7 @@ Rebirth of Windows XP icon theme for linux
 
 # Compilation
 
-Requires python-yaml
+Requires python 3 and the python-yaml library
 
 ## Simple usage
 

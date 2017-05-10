@@ -1,6 +1,5 @@
-128, Mint-X: [places/128/folder_home.png, places/128/gnome-home.png, places/128/user-home.png,
-  places/128/gnome-fs-home.png]
-32, Mint-X: [places/32/user-home.png, places/32/gnome-fs-home.png, places/32/folder_home.png,
-  places/32/gnome-home.png]
-48, Mint-X: [places/48/folder_home.png, places/48/gnome-fs-home.png, places/48/gnome-home.png,
-  places/48/user-home.png]
+16, Mint-X: [places/16/folder_home.png, places/16/gnome-fs-home.png, places/16/gnome-home.png, places/16/user-home.png]
+22, Mint-X: [places/22/folder_home.png, places/22/gnome-fs-home.png, places/22/gnome-home.png, places/22/user-home.png]
+24, Mint-X: [places/24/folder_home.png, places/24/gnome-fs-home.png, places/24/gnome-home.png, places/24/user-home.png]
+32, Mint-X: [places/32/folder_home.png, places/32/gnome-fs-home.png, places/32/gnome-home.png, places/32/user-home.png]
+48, Mint-X: [places/48/folder_home.png, places/48/gnome-fs-home.png, places/48/gnome-home.png, places/48/user-home.png]

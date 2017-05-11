@@ -1,5 +1,5 @@
 # LinXP
-Rebirth of Windows XP icon theme for linux
+Rebirth of Windows XP icon theme for linux (currently in development)
 
 # Compilation
 

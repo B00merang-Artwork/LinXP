@@ -19,3 +19,8 @@ This will make a working icon theme (LinXP_testing) in the user's home directory
 and simultaneously nuke the old version if it exists (effectively an overwrite).
 
 Run this after any changes are made to rapidly test.
+
+## TODO
+* move all available XP icons to their proper place (~10,000 to sort)
+* make 24x24 pngs (most are icons are missing these)
+

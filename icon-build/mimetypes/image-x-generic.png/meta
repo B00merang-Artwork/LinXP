@@ -1,15 +1,25 @@
 16, Mint-X: [mimetypes/16/gnome-mime-image.png, mimetypes/16/gnome-mime-image-x-xpixmap.png,
   mimetypes/16/media-image.png, mimetypes/16/image-x-tga.png, mimetypes/16/gnome-mime-image-x-cmu-raster.png,
-  mimetypes/16/gnome-mime-application-x-killustrator.png, mimetypes/16/image.png]
+  mimetypes/16/gnome-mime-application-x-killustrator.png, mimetypes/16/image.png, mimetypes/16/image-gif.png,
+  mimetypes/16/image-psd.png, mimetypes/16/image-xcf.png, mimetypes/16/image-ico.png,
+  mimetypes/16/image-eps.png, mimetypes/16/image-png.png]
 22, Mint-X: [mimetypes/22/gnome-mime-image.png, mimetypes/22/gnome-mime-image-x-xpixmap.png,
   mimetypes/22/media-image.png, mimetypes/22/image-x-tga.png, mimetypes/22/gnome-mime-image-x-cmu-raster.png,
-  mimetypes/22/gnome-mime-application-x-killustrator.png, mimetypes/22/image.png]
+  mimetypes/22/gnome-mime-application-x-killustrator.png, mimetypes/22/image.png, mimetypes/22/image-gif.png,
+  mimetypes/22/image-psd.png, mimetypes/22/image-xcf.png, mimetypes/22/image-ico.png,
+  mimetypes/22/image-eps.png, mimetypes/22/image-png.png]
 24, Mint-X: [mimetypes/24/gnome-mime-image.png, mimetypes/24/gnome-mime-image-x-xpixmap.png,
   mimetypes/24/media-image.png, mimetypes/24/image-x-tga.png, mimetypes/24/gnome-mime-image-x-cmu-raster.png,
-  mimetypes/24/gnome-mime-application-x-killustrator.png, mimetypes/24/image.png]
+  mimetypes/24/gnome-mime-application-x-killustrator.png, mimetypes/24/image.png, mimetypes/24/image-gif.png,
+  mimetypes/24/image-psd.png, mimetypes/24/image-xcf.png, mimetypes/24/image-ico.png,
+  mimetypes/24/image-eps.png, mimetypes/24/image-png.png]
 32, Mint-X: [mimetypes/32/gnome-mime-image.png, mimetypes/32/gnome-mime-image-x-xpixmap.png,
   mimetypes/32/media-image.png, mimetypes/32/image-x-tga.png, mimetypes/32/gnome-mime-image-x-cmu-raster.png,
-  mimetypes/32/gnome-mime-application-x-killustrator.png, mimetypes/32/image.png]
+  mimetypes/32/gnome-mime-application-x-killustrator.png, mimetypes/32/image.png, mimetypes/32/image-gif.png,
+  mimetypes/32/image-psd.png, mimetypes/32/image-xcf.png, mimetypes/32/image-ico.png,
+  mimetypes/32/image-eps.png, mimetypes/32/image-png.png]
 48, Mint-X: [mimetypes/48/gnome-mime-image.png, mimetypes/48/gnome-mime-image-x-xpixmap.png,
   mimetypes/48/media-image.png, mimetypes/48/image-x-tga.png, mimetypes/48/gnome-mime-image-x-cmu-raster.png,
-  mimetypes/48/gnome-mime-application-x-killustrator.png, mimetypes/48/image.png]
+  mimetypes/48/gnome-mime-application-x-killustrator.png, mimetypes/48/image.png, mimetypes/48/image-gif.png,
+  mimetypes/48/image-psd.png, mimetypes/48/image-xcf.png, mimetypes/48/image-ico.png, mimetypes/48/image-eps.png,
+  mimetypes/48/image-png.png]

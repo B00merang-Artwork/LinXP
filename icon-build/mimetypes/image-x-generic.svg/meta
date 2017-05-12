@@ -1,3 +1,5 @@
 96, Mint-X: [mimetypes/96/gnome-mime-image-x-cmu-raster.svg, mimetypes/96/media-image.svg,
-  mimetypes/96/gnome-mime-application-x-killustrator.svg, mimetypes/96/image.svg,
-  mimetypes/96/image-x-tga.svg, mimetypes/96/gnome-mime-image-x-xpixmap.svg, mimetypes/96/gnome-mime-image.svg]
+  mimetypes/96/gnome-mime-application-x-killustrator.svg, mimetypes/96/image.svg, mimetypes/96/image-gif.svg,
+  mimetypes/96/image-ico.svg, mimetypes/96/image-png.svg, mimetypes/96/image-eps.svg,
+  mimetypes/96/image-psd.svg, mimetypes/96/image-xcf.svg, mimetypes/96/image-x-tga.svg,
+  mimetypes/96/gnome-mime-image-x-xpixmap.svg, mimetypes/96/gnome-mime-image.svg]

@@ -7,4 +7,6 @@
   devices/24/drive-removable-media-ieee1394.png, devices/24/drive-harddisk-usb.png,
   devices/24/media-flash-ms.png, devices/24/gnome-dev-removable-usb.png, devices/24/gnome-dev-media-memory.png]
 48, Mint-X: [devices/48/usbpendrive_unmount.png, devices/48/gnome-dev-removable.png,
-  devices/48/gnome-dev-media-memory.png]
+  devices/48/gnome-dev-media-memory.png, devices/48/gnome-dev-flashdisk.png, devices/48/gnome-dev-unknown-usb.png,
+  devices/48/drive-removable-media-usb.png, devices/48/gnome-dev-flashkey.png, devices/48/drive-harddisk-usb.png,
+  devices/48/gnome-dev-removable-usb.png]

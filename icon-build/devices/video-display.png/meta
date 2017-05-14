@@ -1,15 +1,10 @@
-16, Mint-X: [devices/16/computer.png, devices/16/chardevice.png, devices/16/system.png,
-  devices/16/gnome-dev-computer.png, devices/16/monitor.png, devices/16/gnome-fs-client.png,
-  devices/16/gnome-computer.png, devices/16/xfce4-display.png, devices/16/display.png]
-22, Mint-X: [devices/22/computer.png, devices/22/chardevice.png, devices/22/system.png,
-  devices/22/gnome-dev-computer.png, devices/22/monitor.png, devices/22/gnome-fs-client.png,
-  devices/22/gnome-computer.png, devices/22/xfce4-display.png, devices/22/display.png]
-24, Mint-X: [devices/24/computer.png, devices/24/chardevice.png, devices/24/system.png,
-  devices/24/gnome-dev-computer.png, devices/24/monitor.png, devices/24/gnome-fs-client.png,
-  devices/24/gnome-computer.png, devices/24/xfce4-display.png, devices/24/display.png]
-32, Mint-X: [devices/32/computer.png, devices/32/chardevice.png, devices/32/system.png,
-  devices/32/gnome-dev-computer.png, devices/32/monitor.png, devices/32/gnome-fs-client.png,
-  devices/32/gnome-computer.png, devices/32/xfce4-display.png, devices/32/display.png]
-48, Mint-X: [devices/48/computer.png, devices/48/chardevice.png, devices/48/system.png,
-  devices/48/gnome-dev-computer.png, devices/48/monitor.png, devices/48/gnome-fs-client.png,
-  devices/48/gnome-computer.png, devices/48/xfce4-display.png, devices/48/display.png]
+16, Mint-X: [devices/16/chardevice.png, devices/16/monitor.png, devices/16/xfce4-display.png,
+  devices/16/display.png]
+22, Mint-X: [devices/22/chardevice.png, devices/22/monitor.png, devices/22/xfce4-display.png,
+  devices/22/display.png]
+24, Mint-X: [devices/24/chardevice.png, devices/24/monitor.png, devices/24/xfce4-display.png,
+  devices/24/display.png]
+32, Mint-X: [devices/32/chardevice.png, devices/32/monitor.png, devices/32/xfce4-display.png,
+  devices/32/display.png]
+48, Mint-X: [devices/48/chardevice.png, devices/48/monitor.png, devices/48/xfce4-display.png,
+  devices/48/display.png]
